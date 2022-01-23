@@ -1,2 +1,2 @@
 # Acoustic-Scripts
-Collection of different scripts related to acoustics.
+Collection of different scripts related to acoustics and sound analysis.
